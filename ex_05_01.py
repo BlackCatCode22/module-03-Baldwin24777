@@ -15,5 +15,7 @@ while True:
 
 print(tot,num, tot/num)
 
+#Anthony Baldwin
+
 
 
